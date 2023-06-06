@@ -28,3 +28,14 @@ text{
         -webkit-transform:translate(0,-50%);
                 transform:translate(0,-50%);
     }
+	body {
+	background-color: #F2F5FA;
+	margin: 0;
+	border: 5px solid #222E42;
+	box-sizing: border-box;
+	}
+	.logo {
+	position: absolute;
+	top: 20px;
+	right: 10px;
+	}
